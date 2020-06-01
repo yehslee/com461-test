@@ -1,0 +1,20 @@
+h1 {
+  color: CornFlowerBlue;
+}
+
+p {
+  color: DarkBlue;
+  width: 300px;
+}
+
+#lede {
+  font-size: 18px;
+}
+
+body{
+  background-color: AliceBlue;
+}
+
+#dynamic{
+  font-style: italic;
+}
